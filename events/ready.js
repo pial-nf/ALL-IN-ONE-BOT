@@ -9,8 +9,7 @@ module.exports = {
             { name: 'NightFall', type: ActivityType.Watching },
             { name: 'Discord', type: ActivityType.Playing },
             { name: 'nightfallop', type: ActivityType.Streaming },
-            { name: 'Chatting', type: ActivityType.PialMallikIs }
-            { name: 'nfontop', type: ActivityType.Listening },
+            { name: 'Chatting', type: ActivityType.PialMallikIs },
         ];
 
      
