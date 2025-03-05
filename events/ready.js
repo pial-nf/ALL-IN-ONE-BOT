@@ -7,9 +7,9 @@ module.exports = {
   
         const activities = [
             { name: 'NightFall', type: ActivityType.Watching },
-            { name: 'Discord', type: ActivityType.Playing },
+            { name: 'by PialMallik', type: ActivityType.Playing },
             { name: 'nightfallop', type: ActivityType.Streaming },
-            { name: 'Chatting', type: ActivityType.PialMallikIs },
+            { name: 'Pial', type: ActivityType.Listening },
         ];
 
      
