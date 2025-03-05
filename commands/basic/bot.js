@@ -9,11 +9,11 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/YAqrQKS5qu                   
+YouTube :   https://discord.gg/YAqrQKS5qu                     
 
 Command Verified : ✓  
-Website        : ssrr.tech  
+Website        : https://discord.gg/YAqrQKS5quh  
 Test Passed    : ✓
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
@@ -136,11 +136,11 @@ module.exports = {
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/YAqrQKS5qu                   
+YouTube : https://discord.gg/YAqrQKS5qu                     
 
 Command Verified : ✓  
-Website        : ssrr.tech  
+Website        : https://discord.gg/YAqrQKS5qu
 Test Passed    : ✓
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
